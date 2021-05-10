@@ -1,4 +1,4 @@
-# A Discord Music Bot written in JavaScript, the discord.js library and discord.js-commando framework
+# A Discord Advanced Music Bot written in JavaScript, the discord.js library and discord.js-commando framework
 
 [![image](https://img.shields.io/badge/language-javascript-yellow)](https://www.javascript.com/)
 [![image](https://img.shields.io/badge/node-%3E%3D%2014.0.0-blue)](https://nodejs.org/)
@@ -166,29 +166,17 @@ Default Template for options.json
 
 [Get a Genius API key here](https://genius.com/api-clients/new)
 
-[How to get a Twitch API Key](https://github.com/Bacon-Fixation/Master-Bot/wiki/Getting-Your-Twitch-API-Info)
-
+[How to get a Twitch API Key -Search Google]
 [Get a rawg API key here](https://rawg.io/apidocs)
 
 [Installing node.js on debian](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-debian-9)
 
 [Installing node.js on Windows](https://treehouse.github.io/installation-guides/windows/node-windows.html)
 
-[Installing on a Raspberry Pi](https://github.com/galnir/Master-Bot/wiki/Running-the-bot-on-a-Raspberry-Pi)
-
-### Contributing
-
+[Installing on a Raspberry Pi - Search Google]
 Fork it and submit a pull request!
 Anyone is welcome to suggest new features and improve code quality!
 
 ## Contributors ❤️
 
-[Bacon Fixation](https://github.com/Bacon-Fixation) - 'speedrun' commands, 'invite', 'vote', 'poll', 'welcome', 'mute', 'unmute', 'twitchstatus', 'twitch-announcer', 'welcome-message', 'tv-show-search', pi instructions and visual updates
-
-[ModoSN](https://github.com/ModoSN) - 'resolve-ip', 'rps', '8ball', 'bored', 'trump', 'advice', 'kanye', 'urban dictionary' commands and visual updates
-
-[Natemo6348](https://github.com/Natemo6348) - 'mute', 'unmute'
-
-[malokdev](https://github.com/malokdev) - 'uptime' command
-
-[chimaerra](https://github.com/chimaerra) - minor command tweaks
+[Rainbow Studios](https://discord.gg/yPN49wdqMc) - 'everything'
