@@ -4,6 +4,8 @@ const path = require('path');
 const { prefix, token, discord_owner_id } = require('./config.json');
 const db = require('quick.db');
 const Canvas = require('canvas');
+//credits Rainbow Studios
+//Dont remove it
 
 Structures.extend('Guild', function(Guild) {
   class MusicGuild extends Guild {
